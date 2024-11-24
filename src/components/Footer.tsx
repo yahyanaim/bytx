@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code2, Mail, Phone, MapPin } from 'lucide-react';
 
 const Footer = () => {
@@ -45,7 +44,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-indigo-400" />
-                <a href="tel:+212 06 25 88 93" className="hover:text-indigo-400">+212 06 25 88 93</a>
+                <a href="tel:+212 06 25 88 93" className="hover:text-indigo-400">+212 06 25 88 93 97</a>
               </li>
               <li className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2 text-indigo-400" />
