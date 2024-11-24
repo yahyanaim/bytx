@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRight, Code2, Palette, Zap } from 'lucide-react';
 
 const Hero = () => {
@@ -13,7 +12,7 @@ const Hero = () => {
           className="w-full h-full object-cover opacity-30"
         >
           <source
-            src="src\components\assets\Technology Background Video Loop For Website.mp4"
+            src="src\components\publics\assets\Technology Background Video Loop For Website.mp4"
             type="video/mp4"
           />
         </video>
