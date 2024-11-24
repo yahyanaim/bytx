@@ -118,8 +118,8 @@ const Contact = () => {
                   <MapPin className="h-6 w-6 text-indigo-600 mt-1" />
                   <div className="ml-4">
                     <h4 className="text-lg font-medium text-gray-900">Office</h4>
-                    <p className="text-gray-600">123 Innovation Street</p>
-                    <p className="text-gray-600">San Francisco, CA 94103</p>
+                    <p className="text-gray-600">Coming Soon</p>
+                    <p className="text-gray-600">Coming Soon</p>
                   </div>
                 </div>
               </div>
