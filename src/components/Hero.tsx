@@ -13,7 +13,7 @@ const Hero = () => {
           className="w-full h-full object-cover opacity-30"
         >
           <source
-            src="dist\assets\Technology Background Video Loop For Website.mp4"
+            src="src\components\assets\Technology Background Video Loop For Website.mp4"
             type="video/mp4"
           />
         </video>
